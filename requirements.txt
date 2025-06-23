@@ -1,0 +1,3 @@
+# Este arquivo lista as bibliotecas Python que seu script precisa.
+# Por enquanto, não precisamos de nenhuma para o script simples.
+# Se no futuro seu script usar, por exemplo, a biblioteca 'requests', você adicionaria 'requests' aqui.
